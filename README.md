@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Ricardo Molendijk</h1>
+<h3 align="center">Mission-Critical Engineer | Cloud-Native Enthusiast | Open Source Contributor</h3>
 
-<!--
-**ricardomolendijk/ricardomolendijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ricardomolendijk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🔧 Mission-Critical Engineer at [Schuberg Philis](https://www.schubergphilis.com/)
+- 🌐 Passionate about cloud-native technologies and Kubernetes
+- 🎓 Certified Kubernetes Administrator (CKA)  
+- 📝 Sharing insights on my [blog](https://ricardomolendijk.com/)
+
+---
+
+### 🚀 Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+---
+
+### 📝 Recent Blog Posts
+
+- [Using K9s for Faster Kubernetes Troubleshooting](https://ricardomolendijk.nl/posts/k9s/)
+- [Getting Started: Using ngrok as your Kubernetes Ingress](https://ricardomolendijk.nl/posts/ngrok/)
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ricardomolendijk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ricardomolendijk.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+---
+
+> 🧩 *“Simplifying complexity in the cloud-native world.”*
+
