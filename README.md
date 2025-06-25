@@ -10,8 +10,8 @@
 ### 🧑‍💻 About Me
 
 - 🔧 Mission-Critical Engineer at [Schuberg Philis](https://www.schubergphilis.com/)
-- 🌐 Passionate about cloud-native technologies and Kubernetes
-- 🎓 Certified Kubernetes Administrator (CKA)  
+- 🌐 Passionate about scalable systems, cloud-native technologies, type-safe programming and Kubernetes
+- 🎓 Certified Kubernetes Administrator (CKA) & Certified Kubernetes Application Developer (CKAD)
 - 📝 Sharing insights on my [blog](https://ricardomolendijk.com/)
 
 ---
@@ -34,6 +34,8 @@
 
 ### 📝 Recent Blog Posts
 
+- [The Swiss Cheese Model: Why disasters happen the way they do] (https://ricardomolendijk.com/posts/swiss-cheese/)
+- [Your Nested If-Statements Suck (and So Does Your Code If You Keep Writing Them)] (https://ricardomolendijk.com/posts/nested-code/)
 - [Using K9s for Faster Kubernetes Troubleshooting](https://ricardomolendijk.com/posts/k9s/)
 - [Getting Started: Using ngrok as your Kubernetes Ingress](https://ricardomolendijk.com/posts/ngrok/)
 - [Broadcasting Vinyl: How I Stream Records to Sonos with a Raspberry Pi Zero 2W](https://ricardomolendijk.com/posts/sonos/)
