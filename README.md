@@ -33,7 +33,7 @@
 ---
 
 ### 📝 Recent Blog Posts
-
+- [Normal Accidents - When Disaster Is Just Part Of The Plan](https://ricardomolendijk.com/posts/critical/)
 - [The Swiss Cheese Model: Why disasters happen the way they do](https://ricardomolendijk.com/posts/swiss-cheese/)
 - [Your Nested If-Statements Suck (and So Does Your Code If You Keep Writing Them)](https://ricardomolendijk.com/posts/nested-code/)
 - [Using K9s for Faster Kubernetes Troubleshooting](https://ricardomolendijk.com/posts/k9s/)
