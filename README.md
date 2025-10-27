@@ -11,7 +11,7 @@
 
 - 🔧 Mission-Critical Engineer at [Schuberg Philis](https://www.schubergphilis.com/)
 - 🌐 Passionate about scalable systems, cloud-native technologies, type-safe programming and Kubernetes
-- 🎓 Certified Kubernetes Administrator (CKA) & Certified Kubernetes Application Developer (CKAD)
+- 🎓 CNCF Certified Kubestronaut (CKA, CKAD, CKS, KCNA, KCSA)
 - 📝 Sharing insights on my [blog](https://ricardomolendijk.com/)
 
 ---
